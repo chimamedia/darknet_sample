@@ -1,0 +1,9 @@
+/content/drive/My Drive/Colab Notebooks/darknet/libdark.so
+/content/drive/My Drive/Colab Notebooks/darknet/include/darknet/darknet.h
+/content/drive/My Drive/Colab Notebooks/darknet/include/darknet/yolo_v2_class.hpp
+/content/drive/My Drive/Colab Notebooks/darknet/uselib
+/content/drive/My Drive/Colab Notebooks/darknet/darknet
+/content/drive/My Drive/Colab Notebooks/darknet/share/darknet/DarknetTargets.cmake
+/content/drive/My Drive/Colab Notebooks/darknet/share/darknet/DarknetTargets-noconfig.cmake
+/content/drive/My Drive/Colab Notebooks/darknet/share/darknet/DarknetConfig.cmake
+/content/drive/My Drive/Colab Notebooks/darknet/share/darknet/DarknetConfigVersion.cmake
