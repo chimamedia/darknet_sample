@@ -1,9 +1,0 @@
-/content/drive/My Drive/Colab Notebooks/darknet/build-release/CMakeFiles/install.dir
-/content/drive/My Drive/Colab Notebooks/darknet/build-release/CMakeFiles/list_install_components.dir
-/content/drive/My Drive/Colab Notebooks/darknet/build-release/CMakeFiles/rebuild_cache.dir
-/content/drive/My Drive/Colab Notebooks/darknet/build-release/CMakeFiles/edit_cache.dir
-/content/drive/My Drive/Colab Notebooks/darknet/build-release/CMakeFiles/install/strip.dir
-/content/drive/My Drive/Colab Notebooks/darknet/build-release/CMakeFiles/install/local.dir
-/content/drive/My Drive/Colab Notebooks/darknet/build-release/CMakeFiles/darknet.dir
-/content/drive/My Drive/Colab Notebooks/darknet/build-release/CMakeFiles/uselib.dir
-/content/drive/My Drive/Colab Notebooks/darknet/build-release/CMakeFiles/dark.dir
